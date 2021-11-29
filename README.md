@@ -4,6 +4,8 @@ External Client Project - Wonda Cabinet Inc.
 ## Running the project
 Once you have cloned the repo (see the setup instructions below), you need to do the following:
 
+# TO BE UPDATED
+
 ### H2 Profile (for testing with H2 database outside of Docker)
 ```
 ./gradlew customers-service:build
