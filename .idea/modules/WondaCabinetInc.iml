@@ -3,8 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../WondaCabinetInc">
-      <excludeFolder url="file://$MODULE_DIR$/../../WondaCabinetInc/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../WondaCabinetInc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
     </content>
     <orderEntry type="jdk" jdkName="14" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
